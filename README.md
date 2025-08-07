@@ -5,7 +5,7 @@ Welcome to my Unblocked Games repo!
 Play **Just Fall LOL** directly below:
 
 <iframe
-  src="https://fallguys.onl/justfall-lol.embed"
+  src="https://just-fall-lol.github.io/file/"
   width="800"
   height="600"
   frameborder="0"
