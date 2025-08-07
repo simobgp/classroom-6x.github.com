@@ -11,18 +11,18 @@
   <!-- Open Graph Tags -->
   <meta property="og:title" content="Just Fall LOL 🐧 Play Online for Free | No Download" />
   <meta property="og:description" content="Join the penguin battle royale game Just Fall LOL. Free, unblocked, and no install needed. Fun for all ages!" />
-  <meta property="og:image" content="https://gamulo.com/images/justfalllol-cover.jpg" />
-  <meta property="og:url" content="https://gamulo.com/just-fall-lol" />
+  <meta property="og:image" content="https://gamulo.com/wp-content/uploads/thumbs/custom/J/just-fall-LOGO-150x150.png" />
+  <meta property="og:url" content="https://gamulo.com/game/just-fall-lol-unblocked" />
   <meta property="og:type" content="website" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Just Fall LOL 🐧 Play Online for Free | Gamulo">
   <meta name="twitter:description" content="Play the hit penguin platform game Just Fall LOL in your browser. No download. Free and fun for kids and families.">
-  <meta name="twitter:image" content="https://gamulo.com/images/justfalllol-cover.jpg">
+  <meta name="twitter:image" content="https://gamulo.com/wp-content/uploads/thumbs/custom/J/just-fall-LOGO-150x150.png">
 
   <!-- Canonical URL -->
-  <link rel="canonical" href="https://gamulo.com/just-fall-lol"/>
+  <link rel="canonical" href="https://gamulo.com/game/just-fall-lol-unblocked"/>
 
   <!-- Structured Data for Rich Results -->
   <script type="application/ld+json">
@@ -30,8 +30,8 @@
     "@context": "https://schema.org",
     "@type": "VideoGame",
     "name": "Just Fall LOL",
-    "url": "https://gamulo.com/just-fall-lol",
-    "image": "https://gamulo.com/images/justfalllol-cover.jpg",
+    "url": "https://gamulo.com/game/just-fall-lol-unblocked",
+    "image": "https://gamulo.com/wp-content/uploads/thumbs/custom/J/just-fall-LOGO-150x150.png",
     "description": "Play Just Fall LOL online for free! Join penguin battles on falling platforms in this browser-based multiplayer game. Safe, fun, and unblocked!",
     "genre": "Multiplayer Platformer",
     "operatingSystem": "Web Browser",
